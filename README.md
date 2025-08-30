@@ -3,6 +3,7 @@
 # Название проекта
 
 Finance and Consultancy Solution
+ https://genfront.github.io/FSC/
 
 
 ## 🚀 Технологии
